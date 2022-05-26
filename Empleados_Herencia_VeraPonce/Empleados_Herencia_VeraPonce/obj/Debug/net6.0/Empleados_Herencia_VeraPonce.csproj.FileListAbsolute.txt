@@ -1,0 +1,15 @@
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\bin\Debug\net6.0\Empleados_Herencia_VeraPonce.exe
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\bin\Debug\net6.0\Empleados_Herencia_VeraPonce.deps.json
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\bin\Debug\net6.0\Empleados_Herencia_VeraPonce.runtimeconfig.json
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\bin\Debug\net6.0\Empleados_Herencia_VeraPonce.dll
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\bin\Debug\net6.0\Empleados_Herencia_VeraPonce.pdb
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.csproj.AssemblyReference.cache
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.AssemblyInfoInputs.cache
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.AssemblyInfo.cs
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.csproj.CoreCompileInputs.cache
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.dll
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\refint\Empleados_Herencia_VeraPonce.dll
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.pdb
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\Empleados_Herencia_VeraPonce.genruntimeconfig.cache
+C:\Users\lobom\OneDrive\Escritorio\Empleados_Herencia_VeraPonce\Empleados_Herencia_VeraPonce\obj\Debug\net6.0\ref\Empleados_Herencia_VeraPonce.dll
